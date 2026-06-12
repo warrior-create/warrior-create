@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Vansh 👋</h1>
+<h1 align="center">Hey, I'm Vansh </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Engineer;Web3+%26+Blockchain+Explorer;Competitive+Programmer;Curious+Builder+%E2%80%A2+Forever+Learning" />
@@ -60,15 +60,10 @@ My world right now revolves around:
 
 ---
 
-### 📊 GitHub Activity
+### 🗂️ Top Languages
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=warrior-create&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warrior-create&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=warrior-create&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
