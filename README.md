@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi 👋, I'm Vansh Goel
 
-<!--
-**warrior-create/warrior-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Student at IIT Mandi
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 Building RAG and GenAI applications
+- 📚 Interested in NLP and LLMs
+- ⛓️ Developing blockchain solutions on Hela Network
+- 👁️ Working on Computer Vision projects using OpenCV
+- 🌐 Full Stack Developer (React, Node.js, Express)
+- 💻 Competitive Programmer and DSA Enthusiast
+
+## 🌟 Featured Projects
+
+### PayDrop
+Decentralized payroll and salary streaming platform built on Hela Blockchain.
+
+### Codebase Copilot
+RAG-powered AI assistant that understands repositories and answers questions about codebases.
+
+### Computer Vision Projects
+Object detection and image processing applications using OpenCV.
+
+### NLP Projects
+Text classification, sentiment analysis, and transformer-based applications.
+
+## 🛠 Tech Stack
+
+Python • C++ • JavaScript • TypeScript  
+React • Node.js • Express  
+MongoDB • MySQL  
+OpenCV • LangChain • RAG  
+Solidity • Web3
+
+## 📫 Connect With Me
+
+- LinkedIn: Your LinkedIn URL
+- Email: your-email@example.com
+
+---
+⭐ Always building something new in AI, Blockchain, and Software Engineering.
